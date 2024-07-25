@@ -25,3 +25,6 @@
 [submodule "sync2host"]
 	path = sync2host
 	url = git@github.com:bitmotive/bark-role-sync2host.git
+[submodule "sync2target"]
+	path = sync2target
+	url = git@github.com:bitmotive/bark-role-sync2target.git

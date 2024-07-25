@@ -28,3 +28,6 @@
 [submodule "sync2target"]
 	path = sync2target
 	url = git@github.com:bitmotive/bark-role-sync2target.git
+[submodule "postgresql"]
+	path = postgresql
+	url = git@github.com:bitmotive/bark-role-postgresql.git

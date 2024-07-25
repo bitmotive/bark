@@ -13,3 +13,6 @@
 [submodule "mysql"]
 	path = mysql
 	url = https://github.com/bitmotive/bark-role-mysql
+[submodule "mysqlexport"]
+	path = mysqlexport
+	url = git@github.com:bitmotive/bark-role-mysqlexport.git

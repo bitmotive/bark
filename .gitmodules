@@ -1,0 +1,12 @@
+[submodule "nginxserverblock"]
+	path = nginxserverblock
+	url = git@github.com:bitmotive/bark-role-nginxserverblock.git
+[submodule "php"]
+	path = php
+	url = git@github.com:bitmotive/bark-role-php.git
+[submodule "baseline"]
+	path = baseline
+	url = git@github.com:bitmotive/bark-role-baseline.git
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:bitmotive/bark-role-nginx.git

@@ -31,3 +31,6 @@
 [submodule "postgresql"]
 	path = postgresql
 	url = git@github.com:bitmotive/bark-role-postgresql.git
+[submodule "minio"]
+	path = minio
+	url = git@github.com:bitmotive/bark-role-minio.git

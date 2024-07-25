@@ -22,3 +22,6 @@
 [submodule "discourse"]
 	path = discourse
 	url = git@github.com:bitmotive/bark-role-discourse.git
+[submodule "sync2host"]
+	path = sync2host
+	url = git@github.com:bitmotive/bark-role-sync2host.git

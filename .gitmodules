@@ -19,3 +19,6 @@
 [submodule "mysqlimport"]
 	path = mysqlimport
 	url = git@github.com:bitmotive/bark-role-mysqlimport.git
+[submodule "discourse"]
+	path = discourse
+	url = git@github.com:bitmotive/bark-role-discourse.git

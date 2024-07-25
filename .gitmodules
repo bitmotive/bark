@@ -10,3 +10,6 @@
 [submodule "nginx"]
 	path = nginx
 	url = git@github.com:bitmotive/bark-role-nginx.git
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/bitmotive/bark-role-mysql

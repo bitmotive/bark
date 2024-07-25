@@ -1,4 +1,4 @@
-# bark
+# BARK
 Bitmotive Ansible Role Kit
 
 ---

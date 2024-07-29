@@ -40,3 +40,6 @@
 [submodule "postgresqlimport"]
 	path = postgresqlimport
 	url = git@github.com:bitmotive/bark-role-postgresqlimport.git
+[submodule "wordpress"]
+	path = wordpress
+	url = git@github.com:bitmotive/bark-role-wordpress.git

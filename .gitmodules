@@ -37,3 +37,6 @@
 [submodule "postgresqlexport"]
 	path = postgresqlexport
 	url = git@github.com:bitmotive/bark-role-postgresqlexport.git
+[submodule "postgresqlimport"]
+	path = postgresqlimport
+	url = git@github.com:bitmotive/bark-role-postgresqlimport.git

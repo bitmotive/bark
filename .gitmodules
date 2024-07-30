@@ -1,45 +1,60 @@
 [submodule "nginxserverblock"]
 	path = nginxserverblock
 	url = git@github.com:bitmotive/bark-role-nginxserverblock.git
+    branch = main
 [submodule "php"]
 	path = php
 	url = git@github.com:bitmotive/bark-role-php.git
+    branch = main
 [submodule "baseline"]
 	path = baseline
 	url = git@github.com:bitmotive/bark-role-baseline.git
+    branch = main
 [submodule "nginx"]
 	path = nginx
 	url = git@github.com:bitmotive/bark-role-nginx.git
+    branch = main
 [submodule "mysql"]
 	path = mysql
 	url = https://github.com/bitmotive/bark-role-mysql
+    branch = main
 [submodule "mysqlexport"]
 	path = mysqlexport
 	url = git@github.com:bitmotive/bark-role-mysqlexport.git
+    branch = main
 [submodule "mysqlimport"]
 	path = mysqlimport
 	url = git@github.com:bitmotive/bark-role-mysqlimport.git
+    branch = main
 [submodule "discourse"]
 	path = discourse
 	url = git@github.com:bitmotive/bark-role-discourse.git
+    branch = main
 [submodule "sync2host"]
 	path = sync2host
 	url = git@github.com:bitmotive/bark-role-sync2host.git
+    branch = main
 [submodule "sync2target"]
 	path = sync2target
 	url = git@github.com:bitmotive/bark-role-sync2target.git
+    branch = main
 [submodule "postgresql"]
 	path = postgresql
 	url = git@github.com:bitmotive/bark-role-postgresql.git
+    branch = main
 [submodule "minio"]
 	path = minio
 	url = git@github.com:bitmotive/bark-role-minio.git
+    branch = main
 [submodule "postgresqlexport"]
 	path = postgresqlexport
 	url = git@github.com:bitmotive/bark-role-postgresqlexport.git
+    branch = main
 [submodule "postgresqlimport"]
 	path = postgresqlimport
 	url = git@github.com:bitmotive/bark-role-postgresqlimport.git
+    branch = main
 [submodule "wordpress"]
 	path = wordpress
 	url = git@github.com:bitmotive/bark-role-wordpress.git
+    branch = main
